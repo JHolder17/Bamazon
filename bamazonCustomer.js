@@ -50,7 +50,6 @@ function bamazon() {
                 if (chosenItem.stock_quantity > parseInt(answers.units)) {
                     var newQuantity = chosenItem.stock_quantity - parseInt(answers.units);
                     var cost = chosenItem.price * parseInt(answers.units);
-                    console.log(cost);
                     connection.query("UPDATE products SET ? WHERE ?",
                         [
                             {
