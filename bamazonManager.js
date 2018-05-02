@@ -128,7 +128,7 @@ connection.connect(function (err) {
                                     },
                                     function (error, res) {
                                         if (error) throw err;
-                                        console.log("Inventory updated!");;
+                                        console.log("Inventory updated!"); ;
                                     }
                                 )
                             });
