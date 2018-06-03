@@ -5,11 +5,9 @@ This CLI application is an Amazon-like storefront. The store inventory and all r
 * MySQL
 * MySQL npm package
 * Inquirer npm package 
-
-
-Bamazon Customer
+### Video Guides
+* Bamazon Customer
 https://drive.google.com/file/d/1tvPMOg7uiRFUl-rNxkbqNnA78Yck-vBx/view?usp=sharing 
-Video for Bamazon Manager
+* Bamazon Manager
 https://drive.google.com/file/d/1jbhVj7Vy_BsJMozexc9NtOesqj4tAoxj/view?usp=sharinghttps://github.com/JHolder17/Bamazon 
-Repo
-https://github.com/JHolder17/Bamazon 
+
