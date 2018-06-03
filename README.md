@@ -1,6 +1,6 @@
 # Bamazon
 ## Overview
-This CLI application is an Amazon-like storefront. The store inventory and all relevant informaion is stored in a MySQL databse. The app can take in orders from customers and deplete stock from the store's inventory. It also allows a manager to track keep track of the store inventory by viewing all products for sale, vieweing low inventory items, adding inventory to an item, or adding a new product.
+This CLI application is an Amazon-like storefront. The store inventory and all relevant information is stored in a MySQL database. The app can take in orders from customers and deplete stock from the store's inventory. It also allows a manager to track keep track of the store inventory by viewing all products for sale, vieweing low inventory items, adding inventory to an item, or adding a new product.
 ### Prerequisites
 * MySQL
 * MySQL npm package
